@@ -1,0 +1,28 @@
+#btn{
+    padding: 8px 12px 8px 12px;
+    border-radius: 6px;
+    background: red;
+    cursor: pointer;
+    color: aliceblue;
+    font-size: large;
+}
+#btn:hover{
+    color:black;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+   
+}
+
+body{
+    background-color: bisque;
+
+}
+
+
+
+
